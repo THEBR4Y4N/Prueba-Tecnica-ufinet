@@ -1,0 +1,6 @@
+# Ignorar la carpeta .vs
+.vs/
+
+# Ignorar archivos de compilación
+*.exe
+*.dll
